@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_notas"
+        android:title="Notas"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_salario"
+        android:title="Salario"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_calculadora"
+        android:title="Calculadora"
+        app:showAsAction="never"/>
+</menu>
